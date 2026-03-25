@@ -1,0 +1,146 @@
+2026-03-25 18:25:34 [INFO] [App_comparator.__init__] ComparadorParticulas inicializado com desvio permitido de 10.00%
+2026-03-25 18:25:37 [DEBUG] [__main__._limpar_area_resultados] Área de resultados e blocos de imagem limpos.
+2026-03-25 18:25:37 [INFO] [App_comparator.selecionar_imagens] Iniciando seleção de imagens para comparação
+2026-03-25 18:25:40 [ERROR] [App_comparator.criar_atributos] Número de arquivos selecionados fora do intervalo permitido: 1
+2026-03-25 18:25:40 [ERROR] [__main__._clicar_selecionar_imagens] Erro ao selecionar imagens: É necessário selecionar entre 2 e 6 arquivos.
+2026-03-25 18:25:43 [DEBUG] [__main__._limpar_area_resultados] Área de resultados e blocos de imagem limpos.
+2026-03-25 18:25:43 [INFO] [App_comparator.selecionar_imagens] Iniciando seleção de imagens para comparação
+2026-03-25 18:25:47 [ERROR] [App_comparator.criar_atributos] Número de arquivos selecionados fora do intervalo permitido: 19
+2026-03-25 18:25:47 [ERROR] [__main__._clicar_selecionar_imagens] Erro ao selecionar imagens: É necessário selecionar entre 2 e 6 arquivos.
+2026-03-25 18:25:49 [DEBUG] [__main__._limpar_area_resultados] Área de resultados e blocos de imagem limpos.
+2026-03-25 18:25:49 [INFO] [App_comparator.selecionar_imagens] Iniciando seleção de imagens para comparação
+2026-03-25 18:25:54 [INFO] [App_comparator.criar_atributos] Selecionados 6 arquivos para comparação.
+2026-03-25 18:25:54 [INFO] [App_comparator.criar_atributos] 6 imagens selecionadas.
+2026-03-25 18:25:54 [INFO] [src.classe_arquivo.atributosArq] Arquivo selecionado: SD FC 10.HEIC
+2026-03-25 18:25:54 [INFO] [src.classe_arquivo.atributosArq] Arquivo selecionado: SD FC 10.jpg
+2026-03-25 18:25:54 [INFO] [src.classe_arquivo.atributosArq] Arquivo selecionado: SD FC 10_2.HEIC
+2026-03-25 18:25:54 [INFO] [src.classe_arquivo.atributosArq] Arquivo selecionado: SD FC 10_2.jpg
+2026-03-25 18:25:54 [INFO] [src.classe_arquivo.atributosArq] Arquivo selecionado: SD FC 20.HEIC
+2026-03-25 18:25:54 [INFO] [src.classe_arquivo.atributosArq] Arquivo selecionado: SD FC 20.jpg
+2026-03-25 18:25:54 [INFO] [App_comparator.carregar_imagens_em_memoria] Iniciando carregamento de 6 imagens em memória...
+2026-03-25 18:25:54 [INFO] [src.classe_arquivo.carregar_imagem] Carregando imagem: SD FC 10.HEIC
+2026-03-25 18:25:55 [INFO] [src.classe_arquivo.gerar_miniatura] Miniatura PIL gerada com sucesso (187x249 px).
+2026-03-25 18:25:55 [INFO] [src.classe_arquivo.carregar_imagem] Imagem HEIC convertida com sucesso: SD FC 10.HEIC
+2026-03-25 18:25:55 [INFO] [src.classe_arquivo.carregar_imagem] Imagem carregada: 4284x5712 px
+2026-03-25 18:25:55 [INFO] [src.classe_arquivo.carregar_imagem] Carregando imagem: SD FC 10.jpg
+2026-03-25 18:25:55 [INFO] [src.classe_arquivo.gerar_miniatura] Miniatura PIL gerada com sucesso (187x249 px).
+2026-03-25 18:25:55 [INFO] [src.classe_arquivo.carregar_imagem] Imagem carregada: 4284x5712 px
+2026-03-25 18:25:55 [INFO] [src.classe_arquivo.carregar_imagem] Carregando imagem: SD FC 10_2.HEIC
+2026-03-25 18:25:56 [INFO] [src.classe_arquivo.gerar_miniatura] Miniatura PIL gerada com sucesso (187x249 px).
+2026-03-25 18:25:56 [INFO] [src.classe_arquivo.carregar_imagem] Imagem HEIC convertida com sucesso: SD FC 10_2.HEIC
+2026-03-25 18:25:56 [INFO] [src.classe_arquivo.carregar_imagem] Imagem carregada: 4284x5712 px
+2026-03-25 18:25:56 [INFO] [src.classe_arquivo.carregar_imagem] Carregando imagem: SD FC 10_2.jpg
+2026-03-25 18:25:56 [INFO] [src.classe_arquivo.gerar_miniatura] Miniatura PIL gerada com sucesso (187x249 px).
+2026-03-25 18:25:56 [INFO] [src.classe_arquivo.carregar_imagem] Imagem carregada: 4284x5712 px
+2026-03-25 18:25:56 [INFO] [src.classe_arquivo.carregar_imagem] Carregando imagem: SD FC 20.HEIC
+2026-03-25 18:25:57 [INFO] [src.classe_arquivo.gerar_miniatura] Miniatura PIL gerada com sucesso (249x187 px).
+2026-03-25 18:25:57 [INFO] [src.classe_arquivo.carregar_imagem] Imagem HEIC convertida com sucesso: SD FC 20.HEIC
+2026-03-25 18:25:57 [INFO] [src.classe_arquivo.carregar_imagem] Imagem carregada: 5712x4284 px
+2026-03-25 18:25:57 [INFO] [src.classe_arquivo.carregar_imagem] Carregando imagem: SD FC 20.jpg
+2026-03-25 18:25:57 [INFO] [src.classe_arquivo.gerar_miniatura] Miniatura PIL gerada com sucesso (249x187 px).
+2026-03-25 18:25:57 [INFO] [src.classe_arquivo.carregar_imagem] Imagem carregada: 5712x4284 px
+2026-03-25 18:25:57 [INFO] [App_comparator.carregar_imagens_em_memoria] Carregamento de imagens concluído.
+2026-03-25 18:25:57 [DEBUG] [__main__._atualizar_blocos_com_miniaturas_gui] Miniatura exibida para: SD FC 10.HEIC
+2026-03-25 18:25:57 [DEBUG] [__main__._atualizar_blocos_com_miniaturas_gui] Miniatura exibida para: SD FC 10.jpg
+2026-03-25 18:25:57 [DEBUG] [__main__._atualizar_blocos_com_miniaturas_gui] Miniatura exibida para: SD FC 10_2.HEIC
+2026-03-25 18:25:57 [DEBUG] [__main__._atualizar_blocos_com_miniaturas_gui] Miniatura exibida para: SD FC 10_2.jpg
+2026-03-25 18:25:57 [DEBUG] [__main__._atualizar_blocos_com_miniaturas_gui] Miniatura exibida para: SD FC 20.HEIC
+2026-03-25 18:25:57 [DEBUG] [__main__._atualizar_blocos_com_miniaturas_gui] Miniatura exibida para: SD FC 20.jpg
+2026-03-25 18:25:57 [INFO] [__main__._atualizar_blocos_com_miniaturas_gui] Blocos de imagem atualizados com 6 imagens.
+2026-03-25 18:25:58 [INFO] [App_comparator.processar_imagens] Iniciando processamento de 6 imagens.
+2026-03-25 18:25:58 [INFO] [App_comparator.processar_imagens] Iniciando detecção dos 4 vértices na imagem: SD FC 10.HEIC
+2026-03-25 18:25:58 [INFO] [src.detecta_hough_lines.detectaArea4V] Vértices encontrados em SD FC 10.HEIC com threshold = 300
+2026-03-25 18:25:58 [INFO] [App_comparator.processar_imagens] Ajustando imagem com recorte e warping: SD FC 10.HEIC
+2026-03-25 18:25:58 [INFO] [src.ajuste_de_imagem_4P.__init__] Comprimento de referência do quadrado: 100 cm
+2026-03-25 18:25:58 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Largura original..: 4284 pixels
+2026-03-25 18:25:58 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Largura final.....: 3578 pixels
+2026-03-25 18:25:58 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Altura original...: 5712 pixels
+2026-03-25 18:25:58 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Altura final......: 3662 pixels
+2026-03-25 18:25:59 [INFO] [App_comparator.processar_imagens] Iniciando reconhecimento de partículas na imagem ajustada: SD FC 10.HEIC
+2026-03-25 18:25:59 [INFO] [src.image_processing.__init__] Convertendo imagem de RGB para BGR.
+2026-03-25 18:25:59 [INFO] [src.image_processing.processar] ppm: 2200
+2026-03-25 18:25:59 [INFO] [src.image_processing.processar] Área mínima (px) para partícula de 2.40 mm: 17.5165
+2026-03-25 18:25:59 [INFO] [src.classe_arquivo.gerar_miniatura] Miniatura PIL gerada com sucesso (250x250 px).
+2026-03-25 18:25:59 [INFO] [App_comparator.processar_imagens] Imagem SD FC 10.HEIC - Quantidade detectada: 300
+2026-03-25 18:25:59 [INFO] [App_comparator.processar_imagens] Iniciando detecção dos 4 vértices na imagem: SD FC 10.jpg
+2026-03-25 18:25:59 [INFO] [src.detecta_hough_lines.detectaArea4V] Vértices encontrados em SD FC 10.jpg com threshold = 300
+2026-03-25 18:25:59 [INFO] [App_comparator.processar_imagens] Ajustando imagem com recorte e warping: SD FC 10.jpg
+2026-03-25 18:25:59 [INFO] [src.ajuste_de_imagem_4P.__init__] Comprimento de referência do quadrado: 100 cm
+2026-03-25 18:25:59 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Largura original..: 4284 pixels
+2026-03-25 18:25:59 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Largura final.....: 3578 pixels
+2026-03-25 18:25:59 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Altura original...: 5712 pixels
+2026-03-25 18:25:59 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Altura final......: 3662 pixels
+2026-03-25 18:25:59 [INFO] [App_comparator.processar_imagens] Iniciando reconhecimento de partículas na imagem ajustada: SD FC 10.jpg
+2026-03-25 18:25:59 [INFO] [src.image_processing.__init__] Convertendo imagem de RGB para BGR.
+2026-03-25 18:25:59 [INFO] [src.image_processing.processar] ppm: 2200
+2026-03-25 18:25:59 [INFO] [src.image_processing.processar] Área mínima (px) para partícula de 2.40 mm: 17.5165
+2026-03-25 18:25:59 [INFO] [src.classe_arquivo.gerar_miniatura] Miniatura PIL gerada com sucesso (250x250 px).
+2026-03-25 18:25:59 [INFO] [App_comparator.processar_imagens] Imagem SD FC 10.jpg - Quantidade detectada: 296
+2026-03-25 18:25:59 [INFO] [App_comparator.processar_imagens] Iniciando detecção dos 4 vértices na imagem: SD FC 10_2.HEIC
+2026-03-25 18:25:59 [INFO] [src.detecta_hough_lines.detectaArea4V] Vértices encontrados em SD FC 10_2.HEIC com threshold = 300
+2026-03-25 18:25:59 [INFO] [App_comparator.processar_imagens] Ajustando imagem com recorte e warping: SD FC 10_2.HEIC
+2026-03-25 18:25:59 [INFO] [src.ajuste_de_imagem_4P.__init__] Comprimento de referência do quadrado: 100 cm
+2026-03-25 18:25:59 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Largura original..: 4284 pixels
+2026-03-25 18:25:59 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Largura final.....: 2387 pixels
+2026-03-25 18:25:59 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Altura original...: 5712 pixels
+2026-03-25 18:25:59 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Altura final......: 2501 pixels
+2026-03-25 18:25:59 [INFO] [App_comparator.processar_imagens] Iniciando reconhecimento de partículas na imagem ajustada: SD FC 10_2.HEIC
+2026-03-25 18:25:59 [INFO] [src.image_processing.__init__] Convertendo imagem de RGB para BGR.
+2026-03-25 18:25:59 [INFO] [src.image_processing.processar] ppm: 2200
+2026-03-25 18:25:59 [INFO] [src.image_processing.processar] Área mínima (px) para partícula de 2.40 mm: 17.5165
+2026-03-25 18:25:59 [INFO] [src.classe_arquivo.gerar_miniatura] Miniatura PIL gerada com sucesso (250x250 px).
+2026-03-25 18:25:59 [INFO] [App_comparator.processar_imagens] Imagem SD FC 10_2.HEIC - Quantidade detectada: 288
+2026-03-25 18:25:59 [INFO] [App_comparator.processar_imagens] Iniciando detecção dos 4 vértices na imagem: SD FC 10_2.jpg
+2026-03-25 18:25:59 [INFO] [src.detecta_hough_lines.detectaArea4V] Vértices encontrados em SD FC 10_2.jpg com threshold = 300
+2026-03-25 18:25:59 [INFO] [App_comparator.processar_imagens] Ajustando imagem com recorte e warping: SD FC 10_2.jpg
+2026-03-25 18:25:59 [INFO] [src.ajuste_de_imagem_4P.__init__] Comprimento de referência do quadrado: 100 cm
+2026-03-25 18:25:59 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Largura original..: 4284 pixels
+2026-03-25 18:25:59 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Largura final.....: 2387 pixels
+2026-03-25 18:25:59 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Altura original...: 5712 pixels
+2026-03-25 18:25:59 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Altura final......: 2512 pixels
+2026-03-25 18:25:59 [INFO] [App_comparator.processar_imagens] Iniciando reconhecimento de partículas na imagem ajustada: SD FC 10_2.jpg
+2026-03-25 18:25:59 [INFO] [src.image_processing.__init__] Convertendo imagem de RGB para BGR.
+2026-03-25 18:25:59 [INFO] [src.image_processing.processar] ppm: 2200
+2026-03-25 18:25:59 [INFO] [src.image_processing.processar] Área mínima (px) para partícula de 2.40 mm: 17.5165
+2026-03-25 18:25:59 [INFO] [src.classe_arquivo.gerar_miniatura] Miniatura PIL gerada com sucesso (250x250 px).
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Imagem SD FC 10_2.jpg - Quantidade detectada: 291
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Iniciando detecção dos 4 vértices na imagem: SD FC 20.HEIC
+2026-03-25 18:26:00 [INFO] [src.detecta_hough_lines.detectaArea4V] Vértices encontrados em SD FC 20.HEIC com threshold = 300
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Ajustando imagem com recorte e warping: SD FC 20.HEIC
+2026-03-25 18:26:00 [INFO] [src.ajuste_de_imagem_4P.__init__] Comprimento de referência do quadrado: 100 cm
+2026-03-25 18:26:00 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Largura original..: 5712 pixels
+2026-03-25 18:26:00 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Largura final.....: 3568 pixels
+2026-03-25 18:26:00 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Altura original...: 4284 pixels
+2026-03-25 18:26:00 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Altura final......: 3567 pixels
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Iniciando reconhecimento de partículas na imagem ajustada: SD FC 20.HEIC
+2026-03-25 18:26:00 [INFO] [src.image_processing.__init__] Convertendo imagem de RGB para BGR.
+2026-03-25 18:26:00 [INFO] [src.image_processing.processar] ppm: 2200
+2026-03-25 18:26:00 [INFO] [src.image_processing.processar] Área mínima (px) para partícula de 2.40 mm: 17.5165
+2026-03-25 18:26:00 [INFO] [src.classe_arquivo.gerar_miniatura] Miniatura PIL gerada com sucesso (250x250 px).
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Imagem SD FC 20.HEIC - Quantidade detectada: 471
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Iniciando detecção dos 4 vértices na imagem: SD FC 20.jpg
+2026-03-25 18:26:00 [INFO] [src.detecta_hough_lines.detectaArea4V] Vértices encontrados em SD FC 20.jpg com threshold = 300
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Ajustando imagem com recorte e warping: SD FC 20.jpg
+2026-03-25 18:26:00 [INFO] [src.ajuste_de_imagem_4P.__init__] Comprimento de referência do quadrado: 100 cm
+2026-03-25 18:26:00 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Largura original..: 5712 pixels
+2026-03-25 18:26:00 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Largura final.....: 3568 pixels
+2026-03-25 18:26:00 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Altura original...: 4284 pixels
+2026-03-25 18:26:00 [INFO] [src.ajuste_de_imagem_4P.transformar_imagem] Altura final......: 3564 pixels
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Iniciando reconhecimento de partículas na imagem ajustada: SD FC 20.jpg
+2026-03-25 18:26:00 [INFO] [src.image_processing.__init__] Convertendo imagem de RGB para BGR.
+2026-03-25 18:26:00 [INFO] [src.image_processing.processar] ppm: 2200
+2026-03-25 18:26:00 [INFO] [src.image_processing.processar] Área mínima (px) para partícula de 2.40 mm: 17.5165
+2026-03-25 18:26:00 [INFO] [src.classe_arquivo.gerar_miniatura] Miniatura PIL gerada com sucesso (250x250 px).
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Imagem SD FC 20.jpg - Quantidade detectada: 475
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Quantidade média calculada: 353.50
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Imagem SD FC 10.HEIC: Desvio 15.13% - Status: NOK
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Imagem SD FC 10.jpg: Desvio 16.27% - Status: NOK
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Imagem SD FC 10_2.HEIC: Desvio 18.53% - Status: NOK
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Imagem SD FC 10_2.jpg: Desvio 17.68% - Status: NOK
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Imagem SD FC 20.HEIC: Desvio 33.24% - Status: NOK
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Imagem SD FC 20.jpg: Desvio 34.37% - Status: NOK
+2026-03-25 18:26:00 [INFO] [App_comparator.processar_imagens] Quantidade média calculada: 353.50
+2026-03-25 18:26:07 [INFO] [__main__._fechar_janela] Janela fechada pelo usuário.
+
+2026-03-25 18:26:07 [CRITICAL] [__main__._fechar_janela] Fim da execução com sucesso.
+

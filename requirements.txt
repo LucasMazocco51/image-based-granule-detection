@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pandas
+tqdm
+pillow-heif
+tkinterdnd2
